@@ -5,7 +5,7 @@ kanban simples <br/>
 </p>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="https://s3-alpha.figma.com/hub/file/3531831898/10d74856-62d3-4789-8d10-6bcaa4dd38bb-cover.png" width="100%">
+  <img alt="projeto DevLinks" src="./img/Preview-cover.png" width="100%">
 </p>
 
 
